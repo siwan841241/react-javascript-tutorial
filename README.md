@@ -1,2 +1,2 @@
 # react-javascript-tutorial
-node js
+javascript- tutorial
